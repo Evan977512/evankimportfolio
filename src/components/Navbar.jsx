@@ -87,17 +87,17 @@ const Navbar = () => {
             </a>
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-gray-900">
-            <a className="flex justify-between items-center w-full text-gray-300" href="/">
+            <a className="flex justify-between items-center w-full text-gray-300" href="https://github.com/Evan977512">
               GitHub <FaGithub size={30} />
             </a>
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#DD2A7B]">
-            <a className="flex justify-between items-center w-full text-gray-300" href="/">
+            <a className="flex justify-between items-center w-full text-gray-300" href="https://www.instagram.com/evan_kim_0727/?hl=en">
               Instagram <FaInstagram size={30} />
             </a>
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b1]">
-            <a className="flex justify-between items-center w-full text-gray-300" href="/">
+            <a className="flex justify-between items-center w-full text-gray-300" href="mailto: evan977512@gmail.com">
               Email <HiOutlineMail size={30} />
             </a>
           </li>

@@ -15,7 +15,7 @@ const About = () => {
             <p>Hi, I'am Evan Kim, nice to see you : Please take a round.</p>
           </div>
           <div>
-            <p>Conveying or northward offending admitting perfectly my. Colonel gravity get thought fat smiling add but. Wonder twenty hunted and put income set desire expect. Am cottage calling my is mistake cousins talking up. Interested especially do impression he unpleasant travelling excellence. All few our knew time done draw ask.</p>
+            <p>It's pleasure to see you. Welcome to my Portfolio website!</p>
           </div>
         </div>
       </div>

@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+
+sitemap: https://evankimsportfoliosuperawesome.netlify.app/sitemap.xml
